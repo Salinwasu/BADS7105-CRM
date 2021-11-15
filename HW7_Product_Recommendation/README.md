@@ -33,7 +33,7 @@ Consequent (THEN): This comes along as an item with an Antecedent/group of Antec
 ![1](https://user-images.githubusercontent.com/69904258/141758638-b2e706d2-c13d-475b-9d8a-c0155d206633.jpg)
 
 
-### Definition of lift Value
+### Definition of Lift Value
 Lift : Lift indicates the strength of a rule over the random occurrence of A and B. It basically tells us the strength of any rule.
 ### Definition of Support Value
 Support : It gives the fraction of transactions which contains item A and B. Basically Support tells us about the frequently bought items or the combination of items bought frequently.
